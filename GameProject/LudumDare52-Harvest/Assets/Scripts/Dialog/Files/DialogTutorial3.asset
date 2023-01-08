@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 768b784bbb84e064499f975ea6ad45a6, type: 3}
+  m_Name: DialogTutorial3
+  m_EditorClassIdentifier: 
+  text: But be careful with the turrets they have shared ammo through all the turrets
+    that you harvest...this will not get less weird to say
+  next: {fileID: 11400000, guid: 6bbc3594e0d85544aa296dd6e8074b45, type: 2}

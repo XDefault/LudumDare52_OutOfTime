@@ -1,0 +1,1 @@
+All outline-based fonts (webfonts or otf) that are generated with metaflop are licensed under the sil open font license v1.1 (ofl), as said in their faq page in the oficial website https://www.metaflop.com/faq
